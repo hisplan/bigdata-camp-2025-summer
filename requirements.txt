@@ -3,3 +3,6 @@ python-dotenv
 
 langchain==0.3.26
 langchain_openai==0.3.27
+langchain-community==0.3.27
+langgraph==0.5.2
+chromadb==1.0.15
